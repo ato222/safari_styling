@@ -4,6 +4,6 @@
 }
 
 /* Twitter */
-.dashboard-right, .dashboard-left, .js-topbar {
+.dashboard-right, .dashboard-left, .js-topbar, .promoted-tweet {
   display: none;
 }
