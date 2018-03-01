@@ -1,0 +1,9 @@
+/* YouTube */
+#related, .uma {
+  display: none;
+}
+
+/* Twitter */
+.dashboard-right, .dashboard-left, .js-topbar {
+  display: none;
+}
