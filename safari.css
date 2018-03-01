@@ -7,3 +7,19 @@
 .dashboard-right, .dashboard-left, .js-topbar, .promoted-tweet {
   display: none;
 }
+
+.js-media-container {
+    display: none;
+}
+
+.AdaptiveMedia {
+    display: none;
+}
+
+.permalink-tweet .AdaptiveMedia {
+    display: block;
+}
+
+.permalink-tweet .js-media-container {
+    display: block;
+}
