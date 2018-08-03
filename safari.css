@@ -1,3 +1,8 @@
+a {
+  color: black !important;
+  text-decoration: none;
+}
+
 /* YouTube */
 #related, .uma {
   display: none;
@@ -30,13 +35,4 @@
 
 .article_item_footer {
   display: none !important;
-}
-
-/* dropbox paper dark */
-html {
-    background-color: #fff;
-    filter: invert(100%);
-}
-img, a, button {
-    filter: invert(100%);
 }
